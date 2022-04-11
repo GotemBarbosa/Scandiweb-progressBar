@@ -23,18 +23,14 @@ npm i -g scandipwa-cli
 Starts the development server.
 
 **Features**:
-- The page will reload if you make edits.
-- You will also see any lint errors in the console.
+- There is a progression bar in Checkout page
+
 
 ### `npm run build` or `yarn build`
 
 Bundles the app into static files for production.
 
 > **Note**: To bundle your application as valid Magento 2 theme use `--magento` option.
-
-**Features**:
-- The build is minified and the filenames include the hashes.
-- The build is optimized for the best performance
 
 ## Extensions
 
